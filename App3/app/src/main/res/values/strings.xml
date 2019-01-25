@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App3</string>
+    <string name="counter_one">Счетчик 1</string>
+    <string name="count_zero">Количество = 0</string>
+    <string name="counter_two">Счетчик 2</string>
+    <string name="counter_three">Счетчик 3</string>
+    <string name="countEquals">Количество = %d</string>
+    <string name="cancel">Отмена</string>
+    <string name="convertation_in_progress">Идет конвертация...</string>
+    <string name="convertation_success">Конвертация прошла успешно</string>
+    <string name="convertation_failed">Конвертация не удалась</string>
+    <string name="convertation_canceled">Конвертация отменена</string>
+</resources>
